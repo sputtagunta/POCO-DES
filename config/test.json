@@ -1,0 +1,7 @@
+{
+    "options": {
+        "simulation_tick": 1, 
+        "simulation_start_time": 0, 
+        "simulation_end_time": 100
+    }
+}
